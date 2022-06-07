@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="stars">
+        <item>1 star</item>
+        <item>2 stars</item>
+        <item>3 stars</item>
+        <item>4 stars</item>
+        <item>5 stars</item>
+    </array>
+    <array name="distance">
+        <item>At the place</item>
+        <item>Less than 5 meters</item>
+        <item>Less than 10 meters</item>
+    </array>
+</resources>
